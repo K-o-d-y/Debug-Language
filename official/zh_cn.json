@@ -1,0 +1,117 @@
+{
+  "module.hitbox.description": "自定义攻击碰撞大小。",
+
+  "module.tntblock.description": "使用剑或者盾牌抵挡TNT的爆炸",
+
+  "module.autobow.description": "自动射箭",
+
+  "module.fastbow.description": "更快的射箭。(1.8)",
+
+  "module.wtap.description": "增强你对别人的击退。",
+
+  "module.velocity.description": "改变其他玩家对你的击退。",
+
+
+  "module.sprint.description": "使你能够自动疾跑。",
+
+  "module.nopush.description": "使生物和水的碰撞消失。",
+
+  "module.inventorymove.description": "使你能在打开界面情况下移动。",
+
+  "module.entitycontrol.description": "不需要指定物品控制坐骑。",
+
+  "module.icespeed.description": "自定义冰上的滑动程度。",
+
+  "module.antilevitation.description": "阻止影响掉落或使你离开地面的效果。",
+
+  "module.safewalk.description": "使你在方块上不会掉落下来。",
+
+  "module.spider.description": "允许你在墙上爬行。",
+
+  "module.fastladder.description": "使你爬楼梯更快。",
+
+  "module.blockbounce.description": "使你在一些方块上跳的更高。",
+
+  "module.avoiddanger.description": "躲避一些危险的方块。",
+
+  "module.noweb.description": "更快的穿过蜘蛛网。",
+
+  "module.highjump.description": "使你跳的更高。",
+
+
+  "module.norotate.description": "阻止服务器强制扭头。",
+
+  "module.autorespawn.description": "自动重生。",
+
+  "module.clientmodname.description": "绕过检测客户端名字的服务器。",
+
+  "module.anticrash.description": "阻止服务器崩溃你的客户端。",
+  "module.anticrash.explosion": "成功阻止服务器发送异常的爆炸包。",
+  "module.anticrash.gameState": "成功阻止服务器发送异常的游戏状态包。",
+  "module.anticrash.particle": "成功阻止服务器发送异常的粒子效果包。",
+
+  "module.fasteat.description": "使你喝药或者吃的更快。(1.8)",
+
+
+  "module.test.description": "测试。",
+
+  "module.cameranoclip.description": "允许你第三人称视角能穿墙。",
+
+  "module.fullbright.description": "使一切都明亮。",
+
+  "module.nofov.description": "改变客户端的视野.",
+
+  "moudle.nooverlay.description": "阻止一些东西覆盖到屏幕。",
+
+  "module.truesight.description": "显示隐身的实体。",
+
+  "module.nameprotect.description": "隐藏你在本地的名字。",
+
+  "module.itemphysic.description": "使物品掉落更加真实。",
+
+  "module.hud.description": "打开Hud界面",
+
+  "module.itemesp.description": "标记掉落物品。",
+
+  "module.storageesp.description": "标记容器。",
+
+  "module.esp.description": "标记实体",
+
+  "module.clickgui.description": "打开ClickGui界面",
+
+  "module.bobbing.description": "改变摆动的幅度。",
+
+
+  "module.antifire.description": "减少燃烧的时间。(1.8)",
+
+  "module.fastplace.description": "使你放置的更快。",
+
+  "module.fastbreak.description": "使你破坏的更快。",
+
+  "module.timer.description": "加速全局时间。",
+
+  "module.antibot.description": "排除掉可能是机器人的玩家。",
+
+  "module.pingspoof.description": "将延迟伪造成指定的值。",
+  "module.pingspoof.warn": "PingSpoof在单人游戏不受支持。",
+
+
+  "command.argument.module.exception": "无效模块 %s。",
+  "command.argument.language.exception": "无效语言 %s。",
+  "command.argument.bind.exception": "无效按键 %s.",
+
+  "command.toggle.description": "开启或者关闭模块。",
+  "command.toggle.toggled": "%s 已经 %s。",
+  "command.toggle.enabled": "开启",
+  "command.toggle.disabled": "关闭",
+
+  "command.bind.description": "为模块绑定按键。",
+  "command.bind.success": "%s 已经绑定到 %s.",
+
+  "command.binds.description": "列出已经绑定按键的模块。",
+
+  "command.say.description": "发送没有命令前缀的信息。",
+
+  "command.language.description": "切换语言。",
+  "command.language.switch": "语言切换到 %s。"
+}
