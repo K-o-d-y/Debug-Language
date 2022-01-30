@@ -1,0 +1,117 @@
+{
+  "module.hitbox.description": "Allow custom attack collision size.",
+
+  "module.tntblock.description": "Use a sword or shield to resist the explosion.",
+
+  "module.autobow.description": "Automatic archery.",
+
+  "module.fastbow.description": "Fast archery. (1.8)",
+
+  "module.wtap.description": "Enhance your knockback.",
+
+  "module.velocity.description": "Change other players' knockback on you",
+
+
+  "module.sprint.description": "Make you sprint automatically.",
+
+  "module.nopush.description": "Make the collision of creatures or water disappear.",
+
+  "module.inventory.description": "Enable you to move on the screen.",
+
+  "module.entitycontrol.description": "Control entities without tools.",
+
+  "module.icespeed.description": "Sliding faster on ice.",
+
+  "module.antilevitation.description": "Prevents you from levitating.",
+
+  "module.safewalk.description": "Automatically walk on block safely.",
+
+  "module.spider.description": "Allow you to climb the wall.",
+
+  "module.fastladder.description": "Make you climb the ladder faster.",
+
+  "module.blockbounce.description": "Make you jump higher on some blocks.",
+
+  "module.avoiddanger.description": "Avoid some dangerous blocks.",
+
+  "module.noweb.description": "Faster through the cobweb.",
+
+  "module.highjump.description": "Make you jump higher.",
+
+
+  "module.norotate.description": "Prevent server from forcibly rotating.",
+
+  "module.autorespawn.description": "Make you reborn automatically.",
+
+  "module.clientmodname.description": "Bypass some servers that detect client name.",
+
+  "module.anticrash.description": "Prevent the server from crashing the client.",
+  "module.anticrash.explosion": "Successfully prevent the server from sending abnormal explosion packets.",
+  "module.anticrash.gameState": "Successfully prevent the server from sending the abnormal game state change packets.",
+  "module.anticrash.particle": "Successfully prevent the server from sending abnormal particle packets.",
+
+  "module.fasteat.description": "Make you eat or drink potion faster. (1.8)",
+
+
+  "module.test.description": "Test.",
+
+  "module.cameranoclip.description": "Allow you to pass through walls in the 3rd person camera.",
+
+  "module.fullbright.description": "Make everything bright.",
+
+  "module.nofov.description": "Change client fov.",
+
+  "module.nooverlay.description": "Close some overlays.",
+
+  "module.truesight.description": "Invisible entities visible.",
+
+  "module.nameprotect.description": "Hide your name locally.",
+
+  "module.itemphysic.description": "Make items fall physically.",
+
+  "module.hud.description": "Open Hud screen.",
+
+  "module.itemesp.description": "Mark dropped items.",
+
+  "module.storageesp.description": "Mark storage unit.",
+
+  "module.esp.description": "Mark entities.",
+
+  "module.clickgui.description": "Open ClickGui screen.",
+
+  "module.bobbing.description": "Change the bob amplitude of the client.",
+
+
+  "module.antifire.description": "Reduce the flame burning time. (1.8)",
+
+  "module.fastplace.description": "Make you place faster.",
+
+  "module.fastbreak.description": "Make you break faster.",
+
+  "module.timer.description": "Speed up global time.",
+
+  "module.antibot.description": "Exclude players who may be bots",
+
+  "module.pingspoof.description": "Deceive ping to a specified value.",
+  "module.pingspoof.warn": "PingSpoof does not support single player.",
+
+
+  "command.argument.module.exception": "Invalid Module %s.",
+  "command.argument.language.exception": "Invalid Language %s.",
+  "command.argument.bind.exception": "Invalid Key %s.",
+
+  "command.toggle.description": "Toggled the Module.",
+  "command.toggle.toggled": "%s has been %s",
+  "command.toggle.enabled": "enabled",
+  "command.toggle.disabled": "disabled",
+
+  "command.bind.description": "Bind a key for module.",
+  "command.bind.success": "%s was bound to %s.",
+
+  "command.binds.description": "List bound modules.",
+
+  "command.say.description": "Send a message without command prefix.",
+
+  "command.language.description": "Switch client language.",
+  "command.language.switch": "Language switch to %s."
+}
