@@ -38,6 +38,10 @@
 
   "module.highjump.description": "Make you jump higher.",
 
+  "module.noslow.description": "Stop slowing down.",
+
+  "module.fly.description": "Make you fly in the air.",
+
 
   "module.norotate.description": "Prevent server from forcibly rotating.",
 
@@ -51,6 +55,10 @@
   "module.anticrash.particle": "Successfully prevent the server from sending abnormal particle packets.",
 
   "module.fasteat.description": "Make you eat or drink potion faster. (1.8)",
+
+  "module.autofish.description": "Automatically catch fish.",
+
+  "module.nofall.description": "Make your fall damage reduced or no damage.",
 
 
   "module.test.description": "Test.",
@@ -73,6 +81,8 @@
 
   "module.itemesp.description": "Mark dropped items.",
 
+  "module.nametags.description": "A custom name tag",
+
   "module.storageesp.description": "Mark storage unit.",
 
   "module.esp.description": "Mark entities.",
@@ -80,6 +90,10 @@
   "module.clickgui.description": "Open ClickGui screen.",
 
   "module.bobbing.description": "Change the bob amplitude of the client.",
+
+  "module.blockoverlay.description": "Allows you to change the block overlay style.",
+
+  "module.freecam.description": "Move the camera without moving the body.",
 
 
   "module.antifire.description": "Reduce the flame burning time. (1.8)",
@@ -94,6 +108,8 @@
 
   "module.pingspoof.description": "Deceive ping to a specified value.",
   "module.pingspoof.warn": "PingSpoof does not support single player.",
+
+  "module.regen.description": "Quickly restore health. (1.8)",
 
 
   "command.argument.module.exception": "Invalid Module %s.",
